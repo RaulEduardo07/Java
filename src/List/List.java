@@ -19,7 +19,7 @@ public class List {
 
         System.out.printf("AREA %.2f%n ", area);
         System.out.printf("PRECO %.2f%n", preco);
-//        teste
+//        teste2
 
         sc.close();
     }
