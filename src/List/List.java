@@ -16,7 +16,7 @@ public class List {
 
         double area = largura * comprimento;
         double preco = area * metroQuadrado;
-
+//oi
         System.out.printf("AREA %.2f%n ", area);
         System.out.printf("PRECO %.2f%n", preco);
 //        teste2
